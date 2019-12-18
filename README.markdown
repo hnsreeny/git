@@ -4,12 +4,11 @@ This cheatsheet is a list of our most used Git commands and useful information f
 
 It is available in a few languages. Since the translation rely on volunteers, the content between the available languages may vary. Choose one below:
 
--   [English Version](#english-version)
--   [Versão em Português](https://github.com/0nn0/git-basics-cheatsheet/tree/master/Português)
+
 
 _In case you've missed, there's a list of our most used commands and shortcuts in the [Terminal for Mac](https://github.com/0nn0/terminal-mac-cheatsheet)._
 
-## English Version
+
 
 ### GLOSSARY
 
