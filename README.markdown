@@ -41,9 +41,7 @@ _In case you've missed, there's a list of our most used commands and shortcuts i
 | git clone [repo]          | Creates local copy of remote repository                  |
 | git add [directory]       | Stages specific [directory]                              |
 | git add [file]            | Stages specific [file]                                   |
-| git add -A                | Stages all changed files                                 |
 | git add .                 | Stages new and changed files, NOT deleted files          |
-| git add -u                | Stages changed and deleted files, NOT new files          |
 | git commit -m "[message]" | Commit everything that is staged                         |
 | git status                | Shows status of changes as untracked, modified or staged |
 
